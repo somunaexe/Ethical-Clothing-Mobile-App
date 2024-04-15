@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDiZx5DVMINOcTbX8EXlAJQav3lQs4C2Lc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>44699179471</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.bullfighterv1</string>
+	<key>PROJECT_ID</key>
+	<string>bullfighter-v1-by0e3j</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bullfighter-v1-by0e3j.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:44699179471:ios:336001c94a3e7d1f23daba</string>
+</dict>
+</plist>

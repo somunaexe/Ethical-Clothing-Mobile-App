@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44699179471",
+    "project_id": "bullfighter-v1-by0e3j",
+    "storage_bucket": "bullfighter-v1-by0e3j.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44699179471:android:0030effa735f335023daba",
+        "android_client_info": {
+          "package_name": "com.mycompany.bullfighterv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmr6lHaedmK1EBI_xgmOkhdfZHjc-X0to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
